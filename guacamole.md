@@ -4,4 +4,4 @@
 * lime: 1 eu
 * salt: 0.3 eu
 ## Instructions
-* peel the avocados
+* peel the avocado and put them into a bowl.
