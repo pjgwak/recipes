@@ -4,3 +4,4 @@
 * lime: 1 eu
 * salt: 0.3 eu
 ## Instructions
+* put one avocado into a bowl
